@@ -1,4 +1,3 @@
-A README file should be both informative and visually appealing. Here's a more stylish and better eye-appealing version of the previous README, using emojis, better formatting, and clear sections to improve readability.
 
 📝 File Processor: A Python Utility
 A robust and user-friendly command-line tool for file manipulation with built-in error handling.
